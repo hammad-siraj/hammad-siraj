@@ -146,7 +146,7 @@ principle: "Honest estimates. I own the outcome."
 ## 📊 GitHub pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hammad-siraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammad-siraj&theme=tokyonight" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=hammad-siraj&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
